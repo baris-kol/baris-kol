@@ -1,4 +1,4 @@
-<h4 align="left">Merhaba, Ben Barış 👋 👨‍💻<br>Algoritmik düşünce yapısını benimsemiş, bu düşünce yapısını günlük hayatına uyarlamaya çalışan, teknoloji üzerine yenilikleri ve gelişimi takip etmeyi seven, yeni projeler geliştirmekten keyif alan bir Bilgisayar Mühendisiyim.<br><br>Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği mezunuyum. Şuan Bursa Teknik Üniversitesi Bilgisayar Mühendsiliği Ana Bilim Dalı üzerine Yüksek Lisans yapmaktayım.</h4>
+<h4 align="left">Merhaba, Ben Barış 👋 👨‍💻<br>Algoritmik düşünce yapısını benimsemiş, bu düşünce yapısını günlük hayatına uyarlamaya çalışan, teknoloji üzerine yenilikleri ve gelişimi takip etmeyi seven, yeni projeler geliştirmekten keyif alan bir Bilgisayar Mühendisiyim.<br><br>Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği ve Bursa Teknik Üniversitesi Bilgisayar Mühendsiliği Ana Bilim Dalı üzerine Yüksek Lisans mezunuyum. 
 
 <div align="center">
   <img height="270" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFnYXQzeDl2czRkZGZsb2Mwc2gwamV5Y3drczNuNGY3bjF6ajFuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/0YqqS9Nize8tKxfSWV/giphy.gif"  />
